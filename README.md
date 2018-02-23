@@ -9,10 +9,10 @@ Topics include:
 
 -Data Structures and their Implementations, Including:
 
-  -Stacks 
+    -Stacks 
   
-  -Queues 
+    -Queues 
   
-  -Trees
+    -Trees
   
 -Machine representation of Numbers (Integers, Floating point)
