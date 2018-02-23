@@ -8,6 +8,11 @@ Topics include:
 -Introduction to C++ Syntax, Usage
 
 -Data Structures and their Implementations, Including:
-  -Stacks, Queues, Trees
+
+  -Stacks 
+  
+  -Queues 
+  
+  -Trees
   
 -Machine representation of Numbers (Integers, Floating point)
